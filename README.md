@@ -43,11 +43,13 @@ Completed: 2021
 ---
 ## Mock Interview Video
 
-<video width="640" height="480" controls>
-  <source src="mock_interview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
----
+## Mock Interview Video
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/TOwvf75NHIw"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
 ## Academic Projects
 
