@@ -41,7 +41,6 @@ Completed: 2021
 - Team Collaboration
 
 ---
-## Mock Interview Video
 
 ## Mock Interview Video
 
