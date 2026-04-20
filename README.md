@@ -1,5 +1,5 @@
 # TempletonMIMOGIT.github.io
-# Templeton Dyantyi
+# Templeton Liyabona Dyantyi
 
 ### ICT Student | Software Development | GitHub Portfolio
 
