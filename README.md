@@ -116,3 +116,8 @@ I enabled GitHub Pages, configured the main branch, and ensured my content displ
 
 **Result:**  
 I successfully created an online portfolio, gaining experience in deploying and sharing web-based content.
+
+---
+
+### Github Student Account
+https://github.com/TempletonGIT/TempletonMIMOGIT.github.io.git
