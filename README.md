@@ -172,11 +172,11 @@ I learned that a team charter provides a common starting point for a project. It
 
 The following screenshots provide supporting evidence from the PRP Agile board. The cards and lists should be used to identify the actual user stories and tasks recorded on the board.
 
-![PRP Agile Board – Screenshot 1](evidence/october-2026/trello-board-01.jpg)
+![PRP Agile Board – Screenshot 1] 
 
-![PRP Agile Board – Screenshot 2](evidence/october-2026/trello-board-02.jpg)
+![PRP Agile Board – Screenshot 2]
 
-![PRP Agile Board – Screenshot 3](evidence/october-2026/trello-board-03.jpg)
+![PRP Agile Board – Screenshot 3]
 
 ### Reflection
 
@@ -204,11 +204,11 @@ I learned that breaking project work into smaller tasks makes it easier to under
 
 The following screenshots show sections of the PRP Agile board containing product backlog information. The visible backlog lists and cards provide supporting evidence of work items recorded for the project.
 
-![Product Backlog – Screenshot 4](evidence/october-2026/trello-board-04.jpg)
+![Product Backlog – Screenshot 4]
 
-![Product Backlog – Screenshot 5](evidence/october-2026/trello-board-05.jpg)
+![Product Backlog – Screenshot 5]
 
-![Product Backlog – Screenshot 6](evidence/october-2026/trello-board-06.jpg)
+![Product Backlog – Screenshot 6]
 
 ### Reflection
 
@@ -236,11 +236,11 @@ I learned that a product backlog helps organise project requirements and planned
 
 The screenshots below show sprint-planning sections of the PRP Agile board. The board includes sprint lists and task cards that support the review of work organised into different stages.
 
-![Sprint Backlog – Screenshot 7](evidence/october-2026/trello-board-07.jpg)
+![Sprint Backlog – Screenshot 7]
 
-![Sprint Backlog – Screenshot 8](evidence/october-2026/trello-board-08.jpg)
+![Sprint Backlog – Screenshot 8]
 
-![Sprint Backlog – Screenshot 9](evidence/october-2026/trello-board-09.jpg)
+![Sprint Backlog – Screenshot 9]
 
 ### Reflection
 
