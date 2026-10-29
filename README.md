@@ -170,13 +170,7 @@ I learned that a team charter provides a common starting point for a project. It
 
 ### Evidence
 
-The following screenshots provide supporting evidence from the PRP Agile board. The cards and lists should be used to identify the actual user stories and tasks recorded on the board.
-
-![PRP Agile Board – Screenshot 1] 
-
-![PRP Agile Board – Screenshot 2]
-
-![PRP Agile Board – Screenshot 3]
+The screenshots provide supporting evidence from the PRP Agile board are under GitHub evidence. The cards and lists should be used to identify the actual user stories and tasks recorded on the board.
 
 ### Reflection
 
@@ -204,11 +198,19 @@ I learned that breaking project work into smaller tasks makes it easier to under
 
 The following screenshots show sections of the PRP Agile board containing product backlog information. The visible backlog lists and cards provide supporting evidence of work items recorded for the project.
 
-![Product Backlog – Screenshot 4]
+## Github Evidence
 
-![Product Backlog – Screenshot 5]
+![Evidence 1](images/WhatsApp%20Image%202026-10-28%20at%2017.16.20.jpeg)
+![Evidence 2](images/WhatsApp%20Image%202026-10-28%20at%2017.16.21.jpeg)
+![Evidence 3](images/WhatsApp%20Image%202026-10-28%20at%2017.16.21%20(1).jpeg)
+![Evidence 4](images/WhatsApp%20Image%202026-10-28%20at%2017.16.21%20(2).jpeg)
+![Evidence 5](images/WhatsApp%20Image%202026-10-28%20at%2017.16.21%20(3).jpeg)
+![Evidence 6](images/WhatsApp%20Image%202026-10-28%20at%2017.16.22.jpeg)
+![Evidence 7](images/WhatsApp%20Image%202026-10-28%20at%2017.16.22%20(1).jpeg)
+![Evidence 8](images/WhatsApp%20Image%202026-10-28%20at%2017.16.22%20(2).jpeg)
+![Evidence 9](images/WhatsApp%20Image%202026-10-28%20at%2017.16.22%20(3).jpeg)
 
-![Product Backlog – Screenshot 6]
+
 
 ### Reflection
 
@@ -236,11 +238,6 @@ I learned that a product backlog helps organise project requirements and planned
 
 The screenshots below show sprint-planning sections of the PRP Agile board. The board includes sprint lists and task cards that support the review of work organised into different stages.
 
-![Sprint Backlog – Screenshot 7]
-
-![Sprint Backlog – Screenshot 8]
-
-![Sprint Backlog – Screenshot 9]
 
 ### Reflection
 
